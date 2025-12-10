@@ -23,7 +23,7 @@ pip install colorama pyperclip
 `colorama` is used for colored terminal output. `pyperclip` is used to copy
 keys and ciphertext/plaintext to the clipboard for convenience.
 
-There is no additional packaging — just run the `VerboseXOR.py` script.
+There is no additional packaging — just [download](https://github.com/AlkivaAdiarsa/python-projects/blob/main/VerboseXOR/VerboseXOR.py) and run the `VerboseXOR.py` script.
 
 ---
 
@@ -199,3 +199,4 @@ This repository belongs to the author shown in the script. This README is
 intended as usage and educational documentation for `VerboseXOR.py`.
 
 ---
+
